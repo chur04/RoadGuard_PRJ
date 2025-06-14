@@ -1,0 +1,52 @@
+# NetBeans project files
+/nbproject/
+/build/
+build.xml
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+
+# Compiled classes
+*.class
+
+# Log files
+*.log
+
+# Tomcat configuration and runtime files
+/work/
+*.war
+*.ear
+
+# IDE settings (other IDEs)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+.DS_Store
+__MACOSX/
+
+
+
+# Dependency caches
+/target/
+
+# Local configuration files
+config.properties
+application.properties
+
+# Temporary files
+*.tmp
+*.bak
+
+# Uploaded files (nếu có thư mục upload)
+uploads/
+
+# SonarQube related files
+.scannerwork/
+sonar-project.properties
+.sonar/
+sonar/
